@@ -22,5 +22,8 @@
             <?php echo displayTransaction($transactions); ?>
         </ul>
     </div>
+    <div>
+        <a href="../exercice-2/index.php">Nouvelle transaction</a>
+    </div>
 </body>
 </html>
